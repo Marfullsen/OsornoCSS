@@ -1,31 +1,25 @@
 <p align="center">
   <a href="http://materializecss.com/">
-    <img src="http://materializecss.com/res/materialize.svg" width="150">
+    <img src="docs/img/osornocss_mini.png" width="150">
   </a>
 </p>
 
-<h3 align="center">MaterializeCSS</h3>
+<h3 align="center">OsornoCSS</h3>
 
 <p align="center">
-  Materialize, a CSS Framework based on material design.
+  OsornoCSS, a CSS Framework based on Materialize design.
   <br>
-  <a href="http://materializecss.com/"><strong>-- Browse the docs --</strong></a>
+  <a href="http://materializecss.com/"><strong>-- See the docs --</strong></a>
   <br>
   <br>
-  <a href="https://travis-ci.com/Dogfalo/materialize">
-    <img src="https://travis-ci.com/Dogfalo/materialize.svg?branch=master" alt="Travis CI badge">
+  <a href="https://materializecss.com/">
+    <img src="https://img.shields.io/badge/based--on-materializecss-ff69b4.svg" alt="materialize">
   </a>
   <a href="https://badge.fury.io/js/materialize-css">
-    <img src="https://badge.fury.io/js/materialize-css.svg" alt="npm version badge">
+    <img src="https://badge.fury.io/js/osorno-css.svg" alt="npm version badge">
   </a>
   <a href="https://cdnjs.com/libraries/materialize">
     <img src="https://img.shields.io/cdnjs/v/materialize.svg" alt="CDNJS version badge">
-  </a>
-  <a href="https://david-dm.org/Dogfalo/materialize">
-    <img src="https://david-dm.org/Dogfalo/materialize/status.svg" alt="dependencies Status badge">
-    </a>
-  <a href="https://david-dm.org/Dogfalo/materialize#info=devDependencies">
-    <img src="https://david-dm.org/Dogfalo/materialize/dev-status.svg" alt="devDependency Status badge">
   </a>
   <a href="https://gitter.im/Dogfalo/materialize">
     <img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter badge">
@@ -58,8 +52,8 @@ The documentation can be found at <http://materializecss.com>. To run the docume
 Run these commands to set up the documentation:
 
 ```bash
-git clone https://github.com/Dogfalo/materialize
-cd materialize
+git clone https://github.com/Marfullsen/OsornoCSS
+cd OsornoCSS
 npm install
 ```
 
